@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU}{index.html}, analytics{UA-44238171-1},
+# The first line of this file is a special command that tells jemdoc which menu
+# entry in the file named MENU to associate this page with.
+
+\n
+
+= Cheng Ju
+
+~~~
+{}{img_left}{Ju.JPG}{2014 in LA}{388}{258}{}
+~~~
+
+== About me
+
+I am a fourth year Ph.D. candidate in [https://www.stat.berkeley.edu/biostat/ Interdepartmental Group in Biostatistics] at UC Berkeley,\n
+with emphasis in [http://citris-uc.org/initiatives/decse/ Computational Science and Engineer]. My advisor is [https://www.stat.berkeley.edu/~laan/ Prof. Mark van der Laan].\n
+My research interests mainly focus on machine learning and causal inference. 
+
+Before coming to Berkeley in Aug 2014, I received my B.S. degree of Statistics in Southeast \n
+University, China, where I worked as a research assistant in Research Center for Complex Systems\n
+and Network Sciences, Southeast University under the supervision of [http://www.ae-info.org/ae/Member/Cao_Jinde Prof. Jinde Cao].
+
+
+== Contact
+
+University of California, Berkeley\n
+439 Evans Hall, \n
+Berkeley, CA 94720-3860\n
+Email: cju@berkeley.edu\n
+
+
