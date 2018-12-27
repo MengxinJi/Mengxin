@@ -36,17 +36,3 @@ We investigated heterogeneous effect from new Bay Bridge on BART ridership based
 This project mainly mined and inference the causality between the policy and the soft drink market consumption in California using some causal inference methods. We investigated causal inference method (triple difference approach) based on the all California supermarkets household level consumption’s with transaction details. We inferenced the causality between the policy and the soft drink market consumption in California using some causal inference methods.
 
 
-== kaggle competition called Quora Question Pairs
-
-The goal of this competition is to predict which of the provided pairs of questions contain two questions with the same meaning. Many people ask similarly worded questions on Quora. Multiple questions with the same intent can cause seekers to spend more time finding the best answer to their question, and make writers feel they need to answer multiple versions of the same question. Canonical questions provide a better experience to both active seekers and writers. Currently, Quora uses a Random Forest model to identify duplicate questions. In this competition, we are tasked with predicting whether a pair of questions are duplicates or not, and submitting a binary prediction against the logloss metric.
-
-This competition starts in April and ends in June. There are in total three months to work on this competition. There are in total 3394 teams competing in this competition. Our team is called BAAII and it currently ranks the 349th on the public leaderboard and 355th on the private leaderboard, which is at top $10.3\%$ of all the teams. Results and webpage can be found [https://github.com/MengxinJi/BayArea_Bart_Explore/blob/master/output_hlFikR.gif here].
-
-
-
-=== Energy Prediction of Peaking Power Plant in California
-
-[img{200}{128}{alt text} figure/energy.png]
-
-We predicted the demand of power to reduce the cost of building unnecessary power plants using super- vised learning methods and applied and investigated multiple machine learning algorithms (e.g. OLS, ridge regression, Lasso, decision tree, random forest model) in pySpark to process the large database.
-
