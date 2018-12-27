@@ -27,7 +27,14 @@ In this project, we applied and investigated Recommendation System algorithms to
 
 === Heterogeneous Bay Bridge Impacts on Bay Area Rapid Transit (BART) Ridership
 
-In this project, we investigated heterogeneous effect from new Bay Bridge on BART ridership based on hour and routelevel dimensions using some causal inference methods; in addition, we investigated new Bay Bridge social impact by cost and benefit analysis from traffic congestion and air pollution aspects. To better understand the transit pattern, we visualized the throughput of the BART among 45 stations, from 2011 to 2015, with more than 40 million ridership record. The motion chart could be found on my [https://github.com/MengxinJi/BayArea_Bart_Explore/blob/master/output_hlFikR.gif github]
+We investigated heterogeneous effect from new Bay Bridge on BART ridership based on hour and route level dimensions using some causal inference methods; We inferenced Bay Bridge social impact by cost and benefit analysis from traffic congestion and air pollution aspects.
+
+
+
+=== Policy Causal Impact on California Soda Market Consumption Pattern
+[img{200}{128}{alt text} figure/school.png]
+
+This project mainly mined and inference the causality between the policy and the soft drink market consumption in California using some causal inference methods. We investigated causal inference method (triple difference approach) based on the all California supermarkets household level consumption’s with transaction details. We inferenced the causality between the policy and the soft drink market consumption in California using some causal inference methods.
 
 
 == kaggle competition called Quora Question Pairs
@@ -36,11 +43,6 @@ The goal of this competition is to predict which of the provided pairs of questi
 
 This competition starts in April and ends in June. There are in total three months to work on this competition. There are in total 3394 teams competing in this competition. Our team is called BAAII and it currently ranks the 349th on the public leaderboard and 355th on the private leaderboard, which is at top $10.3\%$ of all the teams. Results and webpage can be found [https://github.com/MengxinJi/BayArea_Bart_Explore/blob/master/output_hlFikR.gif here].
 
-=== Policy Causal Impact on California Soda Market Consumption Pattern
-[img{200}{128}{alt text} figure/school.png]
-
-This project mainly mined and inference the causality between the policy and the soft drink market consumption in California using some causal inference methods. We investigated causal inference method (triple difference approach) based on the all California supermarkets household level consumption’s with transaction details.
-
 
 
 === Energy Prediction of Peaking Power Plant in California
@@ -48,4 +50,6 @@ This project mainly mined and inference the causality between the policy and the
 [img{200}{128}{alt text} figure/energy.png]
 
 We predicted the demand of power to reduce the cost of building unnecessary power plants using super- vised learning methods and applied and investigated multiple machine learning algorithms (e.g. OLS, ridge regression, Lasso, decision tree, random forest model) in pySpark to process the large database.
+
+
 
