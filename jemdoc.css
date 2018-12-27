@@ -34,8 +34,8 @@ body {
 
 #layout-content {
 	padding-top: 0.0em;
-	padding-left: 1.0em;
-	padding-right: 1.0em;
+	padding-left: 2.0em;
+	padding-right: 2.0em;
     border: none;
     background: white;
     text-align: left;
@@ -44,7 +44,7 @@ body {
 
 #layout-menu a {
 	line-height: 1.5em;
-	margin-left: 0.5em;
+	margin-left: 1.5em;
 }
 
 tt {
@@ -120,11 +120,11 @@ strong {
 
 h1, h2, h3 {
 	color: #527bbd;
-	margin-top: 0.7em;
-	margin-bottom: 0.3em;
-	padding-bottom: 0.2em;
+	margin-top: 1.0em;
+	margin-bottom: 1.0em;
+	padding-bottom: 1.0em;
 	line-height: 1.0;
-	padding-top: 0.5em;
+	padding-top: 1.0em;
 	border-bottom: 1px solid #aaaaaa;
 }
 
