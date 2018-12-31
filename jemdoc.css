@@ -1,6 +1,4 @@
 /* Default css file for jemdoc. */
-jemdoc: notime
-
 table#tlayout {
     border: none;
     border-collapse: separate;

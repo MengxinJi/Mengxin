@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{experience.html}
+# jemdoc: menu{MENU}{experience.html}, nofooter
 # The first line of this file is a special command that tells jemdoc which menu
 # entry in the file named MENU to associate this page with.
 
