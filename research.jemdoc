@@ -19,7 +19,6 @@ My research mainly focuses on causal inference and machine learning. More specif
 
 === Recommendation System of Optimized Matchmaking in Health Care
 
-
 In this project, we applied and investigated Recommendation System algorithms to increase the likelihood of long-lasting relationships, preventive medicine and quality of follow ups in health care, and implemented different machine learning algorithms to develop automated mediation service. \[[https://dssg.uchicago.edu/project/jose-de-melo-saude/ Link]\]
 
 
@@ -31,7 +30,6 @@ We investigated heterogeneous effect from new Bay Bridge on BART ridership based
 
 
 === Policy Causal Impact on California Soda Market Consumption Pattern
-[img{200}{128}{alt text} figure/school.png]
 
 This project mainly mined and inference the causality between the policy and the soft drink market consumption in California using some causal inference methods. We investigated causal inference method (triple difference approach) based on the all California supermarkets household level consumption’s with transaction details. We inferenced the causality between the policy and the soft drink market consumption in California using some causal inference methods.
 
